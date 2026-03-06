@@ -1,0 +1,8 @@
+cyphernews-hub/
+│
+├── index.html       ← Homepage + dashboard + AI
+├── login.html       ← Login & signup page
+├── dashboard.html   ← User-specific dashboard (after login)
+├── style.css        ← All your styling
+├── script.js        ← Handles API calls, AI, Firebase login
+└── assets/          ← Logos, images, icons
